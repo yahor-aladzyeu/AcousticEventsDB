@@ -36,6 +36,8 @@ Soundfile: A library for reading and writing sound files.
 
 
 ## Screenshots
+![Example screenshot](cl-rom-sc-t-asc-2oct-ed-32_cube_wood_SNR50_spectrogram.png)
+###An example spectrogram for one of the recordings(SNR 50dB)###
 
 
 ## Usage
