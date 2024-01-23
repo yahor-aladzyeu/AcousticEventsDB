@@ -10,9 +10,7 @@ A collection of acoustic recordings, made in various acoustic conditions. This p
 * [Usage](#usage)
 * [Additional Resources](#Additional-Resources)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+
 
 
 
