@@ -48,8 +48,8 @@ The simulation results, including recordings and charts, will be saved in the **
 Along with the source code of the AcousticEventsDB project, the repository also includes a folder containing special audio recordings. These recordings were made in an anechoic chamber, which ensures exceptionally clean sound quality and the absence of external acoustic disturbances. They are particularly useful for tests and simulations within the project.
 
 **Recordings Folder**
-Location in the Repository: The folder with these recordings can be found in the project's repository under the name Audio.
-Application: These recordings are ideal for testing and demonstrating the simulation capabilities of the AcousticEventsDB project, offering realistic source material.
+**Location in the Repository:** The folder with these recordings can be found in the project's repository under the name Audio.
+**Application:** These recordings are ideal for testing and demonstrating the simulation capabilities of the AcousticEventsDB project, offering realistic source material.
 
 ## Project Status
 The project is in progress
