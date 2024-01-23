@@ -22,7 +22,7 @@ A collection of acoustic recordings, made in various acoustic conditions. This p
 - **Motivation for Undertaking the Project:** The project was initiated from my passion for acoustics, sound, and Machine Learning. Seeing a gap in the available simulation tools, I decided to create AcousticEventsDB to fill this space and combine my interests in one innovative tool.
 
 ## Technologies Used
-- **Python 11.7:** The programming language used to create the entire project, providing comprehensive capabilities and support for scientific and acoustic libraries.
+- **Python ver. 11.7:** The programming language used to create the entire project, providing comprehensive capabilities and support for scientific and acoustic libraries.
 - **Numpy:** A Python library for scientific computing, offering support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions for operations on these arrays.
 - **MatPlotLib:** A library for creating static, interactive, and animated visualizations in Python.
 - **Librosa:** A library for music and audio analysis, providing tools for audio feature extraction, signal analysis, visualization, and more.
