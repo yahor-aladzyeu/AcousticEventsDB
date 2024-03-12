@@ -54,4 +54,4 @@ Along with the source code of the AcousticEventsDB project, the repository also 
 
 
 ## Project Status
-The project is in progress
+The project is in progress.
