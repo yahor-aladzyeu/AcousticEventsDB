@@ -30,7 +30,7 @@ materials = {
 }
 
 # Define Signal-to-Noise Ratios (SNRs) to be used
-SNRs = [30, 50]
+SNRs = [20, 50]
 
 # Function to add white noise to a signal based on SNR
 def add_white_noise(signal, snr_db):
@@ -55,7 +55,7 @@ def plot_grouped_waveforms(signals_dict, title, output_folder):
     plt.ylabel('Amplitude')
     plt.legend()
     plt.tight_layout()
-    plot_file_path = os.path.join(output_folder, f'wykres.png')
+    plot_file_path = os.path.join(output_folder, f'graph.png')
     plt.savefig(plot_file_path)
     plt.close()
 
@@ -147,4 +147,4 @@ if __name__ == "__main__":
     with Pool(processes=os.cpu_count()) as pool:
         pool.map(process_file, files)
 
-    print("Generation process completed successfully!")
+    print("Generation process completed successfully!!!")
